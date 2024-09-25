@@ -4,10 +4,8 @@
 
 
  - Clone the repository or download its archive.
- - Go to inFusion/tools/inFusion.
  - Depending on your OS (Mac or Linux), run the corresponding `infusion_{OS}.sh` in your
 terminal.
-> location: inFusion/tools/inFusion/infusion_mac.sh or infusion_linux.sh
 - Once the window is open, click on the open button in the top right corner to open your project folder.
 
 
